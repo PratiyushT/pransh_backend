@@ -1,0 +1,11 @@
+{
+  "name": "pransh-monorepo",
+  "private": true,
+  "devDependencies": {},
+  "workspaces": [
+    "frontend",
+    "backend",
+    "backend/sanity",
+    "backend/stripe"
+  ]
+}
