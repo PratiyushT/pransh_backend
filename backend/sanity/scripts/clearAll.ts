@@ -1,7 +1,6 @@
 import dotenv from 'dotenv'
 import {createClient} from '@sanity/client'
 
-dotenv.config({path: '../.env'})
 
 // Sanity Client Setup
 const client = createClient({

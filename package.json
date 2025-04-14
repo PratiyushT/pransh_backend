@@ -6,6 +6,6 @@
     "frontend",
     "backend",
     "backend/sanity",
-    "backend/stripe"
+    "backend/supabase"
   ]
 }

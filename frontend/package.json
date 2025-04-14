@@ -39,6 +39,7 @@
 	"dependencies": {
 		"@sanity/client": "^6.29.0",
 		"@stripe/stripe-js": "^7.0.0",
+		"@supabase/supabase-js": "^2.49.4",
 		"stripe": "^18.0.0"
 	}
 }

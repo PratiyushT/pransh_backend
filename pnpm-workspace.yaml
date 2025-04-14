@@ -2,4 +2,4 @@ packages:
   - 'frontend'
   - 'backend'
   - 'backend/sanity'
-  - 'backend/server'
+  - 'backend/supabase'

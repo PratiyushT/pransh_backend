@@ -2,7 +2,7 @@ import dotenv from  'dotenv'
 import { createClient } from '@sanity/client'
 import { faker } from '@faker-js/faker'
 
-dotenv.config({path: '../.env'})
+dotenv.config({path: '../.env.example'})
 
 // Sanity Client Configuration
 const client = createClient({
